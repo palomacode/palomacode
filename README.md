@@ -1,16 +1,18 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=890000&height=120&section=header"/>
 
-<!--
-**palomacode/palomacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a40c06&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paloma+Flores!;I'm+23+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=palomacode&show_icons=true&count_private=true&hide_border=true&title_color=d92311&icon_color=d92311&text_color=a40c06&bg_color=0d1117" alt="Paloma github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacode&layout=compact&hide_border=true&title_color=d92311&text_color=a40c06&bg_color=0d1117" />
+  
+<div align="center">
+  
+![C](https://img.shields.io/badge/C-be170b?style=for-the-badge&logo=c&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-be170b?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-be170b?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomacode&bg_color=0d1117&color=a40c06&line=a40c06&point=be170b&area=true&hide_border=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=890000&height=120&section=footer"/>
