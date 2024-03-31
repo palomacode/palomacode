@@ -15,4 +15,6 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomacode&bg_color=0d1117&color=a40c06&line=a40c06&point=be170b&area=true&hide_border=true)
 
+![Snake animation](https://github.com/palomacode/palomacode/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=890000&height=120&section=footer"/>
