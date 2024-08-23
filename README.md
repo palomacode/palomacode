@@ -6,13 +6,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=palomacode&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Paloma github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacode&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
   
-<div align="center">
-  
-![C](https://img.shields.io/badge/C-9fb2e0?style=for-the-badge&logo=c&logoColor=FFF)
-[![Git](https://img.shields.io/badge/Git-9fb2e0?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-9fb2e0?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,aws,vscode,replit,notion,obsidian)](https://skillicons.dev)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomacode&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
+
+[![G-mail](https://skillicons.dev/icons?i=gmail	)](https://mail.google.com/mail/u/0/#inbox)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/palomacode/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/palomacode/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/codepam_)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/GQamnvAf)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
