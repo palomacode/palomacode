@@ -12,8 +12,7 @@
 
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/palomacode/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/palomacode/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/codepam_)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/GQamnvAf)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/codepam/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/RcYR6NX3)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbd59&height=120&section=footer"/>
