@@ -11,8 +11,8 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomacode&bg_color=0d1117&color=ffbd59&line=ffbd59&point=ffbd59&area=true&hide_border=true)
 
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](https://mail.google.com/mail/u/0/#inbox)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/palomacode/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/codepam/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/RcYR6NX3)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/palomafloreshtml/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/projetobibliotech/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/1278315723483119646/1297997104261758996)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbd59&height=120&section=footer"/>
